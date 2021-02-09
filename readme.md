@@ -1,13 +1,8 @@
 # Tailwind Starter PRT
 
-Not a PYT, "Pretty Young Thing" but a PRT... using Parcel, React, and TypeScript.
+Not a [PYT "Pretty Young Thing"](https://www.youtube.com/watch?v=1ZZQuj6htF4)...  but a PRT, using Parcel, React, and TypeScript.
 
-- Parcel: 1.12.4
-- React: 17.0.1
-- Typescript: 4.1.3
-- Tailwind: 2.02
-
-> Note:  Tailwind 2 is currently having some issues with PostCSS 8, so this uses the PostCSS 7 compatibility version for now.
+> Note:  Uses the PostCSS 7 compatibility version for now
 
 ## Start Dev Server
 
